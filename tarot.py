@@ -1,7 +1,8 @@
 import random
 import openai
 import os
-
+from dotenv import load_dotenv
+load_dotenv()
 # Set up OpenAI API key
 openai.api_key = os.environ["OPENAI_API_KEY"]
 

@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cc13b713.css",
+    "main.js": "/static/js/main.e1a5718a.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/Wheel_of_Fortune.png": "/static/media/Wheel_of_Fortune.000e310a4360d1a795dd.png",
+    "static/media/The_Tower.png": "/static/media/The_Tower.0791fb0ef56cb32ba1a1.png",
+    "static/media/The_High_Priestess.png": "/static/media/The_High_Priestess.2f7081ef056c861778d6.png",
+    "static/media/Judgement.png": "/static/media/Judgement.d55b10fe426afdc8db6b.png",
+    "static/media/The_Hermit.png": "/static/media/The_Hermit.89b3e9da68150e72dc53.png",
+    "static/media/Strength.png": "/static/media/Strength.6666d73960dfc53544ef.png",
+    "static/media/The_Emperor.png": "/static/media/The_Emperor.a2504f011f81b8847c23.png",
+    "static/media/Death.png": "/static/media/Death.26eaac22736ba7c50805.png",
+    "static/media/The_Magician.png": "/static/media/The_Magician.93ec412c31dd7043df5d.png",
+    "static/media/Justice.png": "/static/media/Justice.89cf78e93e0fc58e85e5.png",
+    "static/media/Temperance.png": "/static/media/Temperance.5bab44998fb78e0eb0e6.png",
+    "static/media/The_Devil.png": "/static/media/The_Devil.ccac007dbdfaa4ba70ce.png",
+    "static/media/Card_Back.png": "/static/media/Card_Back.f8c422cb08648bc4c4ec.png",
+    "static/media/The_Lovers.png": "/static/media/The_Lovers.b7a0fed205f15d485e27.png",
+    "static/media/The_World.png": "/static/media/The_World.ae4c52b0defcce6cb80e.png",
+    "static/media/The_Hanged_Man.png": "/static/media/The_Hanged_Man.ffc7698a05235f6aca09.png",
+    "static/media/The_Fool.png": "/static/media/The_Fool.dd1b020b4a09ee56806d.png",
+    "static/media/The_Empress.png": "/static/media/The_Empress.302e5009f8fa28970b13.png",
+    "static/media/The_Chariot.png": "/static/media/The_Chariot.8d919a2d7cb57ed58b63.png",
+    "static/media/The_Hierophant.png": "/static/media/The_Hierophant.b485fb0d83b9bc83bdaf.png",
+    "static/media/The_Moon.png": "/static/media/The_Moon.c6e196eb94dcfd84ba24.png",
+    "static/media/The_Star.png": "/static/media/The_Star.e51cf286117e0e4ee049.png",
+    "static/media/The_Sun.png": "/static/media/The_Sun.b005f0c33ade9cc8956e.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.cc13b713.css.map": "/static/css/main.cc13b713.css.map",
+    "main.e1a5718a.js.map": "/static/js/main.e1a5718a.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc13b713.css",
+    "static/js/main.e1a5718a.js"
+  ]
+}
