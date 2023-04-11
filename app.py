@@ -3,7 +3,7 @@ from flask.helpers import send_from_directory
 from flask_cors import CORS, cross_origin
 from tarot import generate_tarot_reading, generate_answer
 
-app = Flask(__name__, static_folder='frontend/build')
+app = Flask(__name__, static_folder='frontend/build', static_url_path='/')
 CORS(app)  # Enable CORS for all routes and origins
 
 
@@ -25,7 +25,7 @@ def tarot():
 @app.route('/')
 @cross_origin()
 def serve():
-    return send_from_directory(app.static_folder,'index.html')
+    return app.send_static_file('index.html')
 
 if __name__ == '__main__':
     app.run()
