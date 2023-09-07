@@ -23,7 +23,7 @@ const TarotReading = () => {
     const getReading = async () => {
         const response = await axios.get('/api/tarot', {
             params: { question },
-            baseURL: ' https://pacific-cove-28177.herokuapp.com/',
+            baseURL: 'https://web-production-f202.up.railway.app/',
         });
         setResult(response.data);
     };
