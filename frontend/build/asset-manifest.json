@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.cc13b713.css",
-    "main.js": "/static/js/main.09d11428.js",
+    "main.js": "/static/js/main.9db7ab22.js",
     "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
     "static/media/Wheel_of_Fortune.png": "/static/media/Wheel_of_Fortune.000e310a4360d1a795dd.png",
     "static/media/The_Tower.png": "/static/media/The_Tower.0791fb0ef56cb32ba1a1.png",
@@ -29,11 +29,11 @@
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
     "main.cc13b713.css.map": "/static/css/main.cc13b713.css.map",
-    "main.09d11428.js.map": "/static/js/main.09d11428.js.map",
+    "main.9db7ab22.js.map": "/static/js/main.9db7ab22.js.map",
     "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cc13b713.css",
-    "static/js/main.09d11428.js"
+    "static/js/main.9db7ab22.js"
   ]
 }
