@@ -23,7 +23,6 @@ const TarotReading = () => {
     const getReading = async () => {
         const response = await axios.get('/api/tarot', {
             params: { question },
-            baseURL: 'https://web-production-f202.up.railway.app',
         });
         setResult(response.data);
     };
