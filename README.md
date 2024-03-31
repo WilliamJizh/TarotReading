@@ -15,5 +15,3 @@ Tarot art created by Nijijourney
 - Flask
 
 Whether you're looking for guidance, self-reflection, or just a bit of fun, our site is here to help. 
-
-[Try it out for yourself here.](https://pacific-cove-28177.herokuapp.com/)
