@@ -1,5 +1,7 @@
 # Welcome to our Tarot Reading Site!
 
+[Click Here To Start](tarot-reading-alpha.vercel.app)
+
 Here, you can experience a simple yet insightful tarot reading using the power of GPT-3.5-turbo. 
 
 Tarot art created by Nijijourney
